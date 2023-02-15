@@ -1,2 +1,2 @@
 # roboshop-shell-script
-shell script project
+roboshop shell script project

@@ -1,0 +1,1 @@
+echo Install Payment component
